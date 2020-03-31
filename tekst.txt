@@ -1,0 +1,515 @@
+Milan faramilan1@gmail.commpacov34635kretanjeMilan faramilan1@gmail.commpacov34635kretanjeIme i prezime je:Milan faramilan1@gmail.comzmacka335ima_teškoća_sa_kretanjemIme i prezime klijenta je:Milan E-mejl klijenta je:faramilan1@gmail.comDatum podnošenja prijave je:Izabrani pol životinje je:mIzabrana životinja je:konjBroj izabranih životinja je25Broj dana je:4Ima teškoća sa kretanjemIme i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:m
+Izabrana životinja je:konj
+Broj izabranih životinja je25
+Broj dana je:4
+Ima teškoća sa kretanjemIme i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:z
+Izabrana životinja je:zmija
+Broj izabranih životinja je1
+Broj dana je:1
+Ima teškoća sa kretanjemIme i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:z
+Izabrana životinja je:zmija
+Broj izabranih životinja je1
+Broj dana je:1
+ Ima teškoća sa kretanjemIme i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:z
+Izabrana životinja je:zmija
+Broj izabranih životinja je1
+Broj dana je:1
+  Ime i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:z
+Izabrana životinja je:zmija
+Broj izabranih životinja je1
+Broj dana je:1
+  Ime i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:z
+Izabrana životinja je:zmija
+Broj izabranih životinja je1
+Broj dana je:1
+  Ime i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:z
+Izabrana životinja je:zmija
+Broj izabranih životinja je1
+Broj dana je:1
+  Ime i prezime klijenta je:Milan 
+E-mejl klijenta je:faramilan1@gmail.com
+Datum podnošenja prijave je:
+Izabrani pol životinje je:z
+Izabrana životinja je:zmija
+Broj izabranih životinja je1
+Broj dana je:1
+  Ime i prezime klijenta je:242
+E-mejl klijenta je:456@df
+Datum podnošenja prijave je:
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je54
+Broj dana je:54
+  Ime i prezime klijenta je:242
+E-mejl klijenta je:456@df
+Datum podnošenja prijave je:
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je54
+Broj dana je:54
+  Ime i prezime klijenta je:242
+E-mejl klijenta je:456@df
+Datum podnošenja prijave je:
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je54
+Broj dana je:54
+  Ime i prezime klijenta je:56
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+  00Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-05
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+  
+Ime i prezime klijenta je:56
+E-mejl klijenta je:ff@f
+Datum podnošenja prijave je:2019-06-15
+Izabrani pol životinje je:m
+Izabrana životinja je:pacov
+Broj izabranih životinja je4
+Broj dana je:5
+  
+Ime i prezime klijenta je:56
+E-mejl klijenta je:ff@f
+Datum podnošenja prijave je:2019-06-15
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni 
+Ime i prezime klijenta je:65
+E-mejl klijenta je:ff@f
+Datum podnošenja prijave je:2019-05-30
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je453
+Broj dana je:54
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:645
+E-mejl klijenta je:456@df
+Datum podnošenja prijave je:2019-05-30
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je45
+Broj dana je:456
+
+Ime i prezime klijenta je:56
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je6
+Broj dana je:5
+Array
+Ime i prezime klijenta je:gh
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-05-31
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ 
+Ime i prezime klijenta je:56
+E-mejl klijenta je:ff@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je65
+Broj dana je:56
+Array
+Ime i prezime klijenta je:56
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-05-30
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je456
+Broj dana je:456
+Array
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-22
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je56
+Broj dana je:5
+Array
+Ime i prezime klijenta je:64
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je456
+Broj dana je:456
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:gh
+E-mejl klijenta je:ff@f
+Datum podnošenja prijave je:2019-05-30
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je8
+Broj dana je:8
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:65
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je456
+Broj dana je:456
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-21
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+
+Ime i prezime klijenta je:87
+E-mejl klijenta je:456@df
+Datum podnošenja prijave je:2019-06-13
+Izabrani pol životinje je:3
+Izabrana životinja je:papagaj
+Broj izabranih životinja je456
+Broj dana je:456
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-06
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:55
+Stariji je od 8 godina
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-06
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-06
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-06
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-06
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-15
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-15
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-15
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-15
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-15
+Izabrani pol životinje je:m
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-07
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-14
+Izabrani pol životinje je:z
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-13
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-13
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-13
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-05
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-05
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina i ima teškoća sa kretanjem
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-05
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina i ima teškoća sa kretanjem
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-12
+Izabrani pol životinje je:4
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-12
+Izabrani pol životinje je:4
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina i ima teškoća sa kretanjem
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-12
+Izabrani pol životinje je:4
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-12
+Izabrani pol životinje je:4
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina i ima teškoća sa kretanjem
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-11
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Nikakvi dodaci nisu potrebni
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-11
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-11
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-11
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+Stariji je od 8 godina
+
+Ime i prezime klijenta je:5
+E-mejl klijenta je:55@f
+Datum podnošenja prijave je:2019-06-11
+Izabrani pol životinje je:3
+Izabrana životinja je:pas
+Broj izabranih životinja je5
+Broj dana je:5
+ima teškoća sa kretanjem
+

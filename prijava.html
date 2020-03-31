@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sr" >
+	<head>
+	<meta charset="UTF-8">
+		<title>Prijava </title>
+		<link rel="stylesheet" href="stil.css">
+	</head>
+	
+	<body>
+		<ul>
+			<li><a href="index.html">Početna</a></li>
+			<li><a href="ziv.html">Životinje</a></li>
+			<li><a class="active">Prijava</a></li>
+		</ul>
+		<div class="form-style-3">
+
+<form method="post" action="php.php">
+<fieldset><legend>Informacije</legend>
+Vaše ime i prezime: <input type="text" name="ime" required></br>
+Od <input type="date" id="dat0" name="datum" required></input> 
+<br>
+Koja je vaša životinja? <select name="zivotinje" id="listz" onchange="izrc()">
+<option value="pas">Pas</option>
+<option value="macka">Mačka</option>
+<option value="pacov">Pacov</option>
+<option value="zmija">Zmija</option>
+<option value="papagaj">Papagaj</option>
+<option value="konj">Konj</option>
+<option value="hrcak">Hrčak</option>
+<option value="kivi">Kivi</option>
+<option value="medved">Medved</option>
+<option value="orao">Orao</option>
+</select><br>
+
+Pol životinje: <input type="radio" name="pol" value="m" required> muški
+<input type="radio" name="pol" value="z"> ženski
+<input type="radio" name="pol" value="3"> napadački helikopter 
+<input type="radio" name="pol" value="4"> homo <br>
+Broj životinja: <input type="number" name="brz" id="brojz" onchange="izrc()" id="brz" required></br>
+Broj dana: <input type="number" name="brd" id="brojd" onchange="izrc()" id="brd" required></br>
+Kontakt mejl:	<input type="email" name="mejl" required></br>
+<input type="checkbox" name="chck" value="stariji_je_od_8_godina"> Da li je životinja starija od 8 godina?<br>
+<input type="checkbox" name="chck" value="ima_teskoca_sa_kretanjem"> Životinja ima teškoća sa kretanjem<br>
+
+<input name="submit" type="submit">
+</fieldset>
+<fieldset><legend>Cena</legend>
+<div id="divcena">Cena će biti ispisana kada unesete broj dana i životinja</div><br>
+</fieldset>
+
+</form>
+</div>
+		<script>
+		function izrc(){
+		var txt;
+		var zivt = document.getElementById("listz").value;
+		var z=document.getElementById("brojz").value;		
+		var d=document.getElementById("brojd").value;
+		var u=0;
+			switch(zivt){
+			case "pas":u=200*z*d;break;
+			case "macka":u=175*z*d;break;
+			case "pacov":u=300*z*d;break;
+			case "zmija":u=200*z*d;break;
+			case "papagaj":u=230*z*d;break;
+			case "konj":u=1750*z*d;break;
+			case "hrcak":u=75*z*d;break;
+			case "kivi":u=100*z*d;break;
+			case "medved":u=1000*z*d;break;
+			case "orao":u=750*z*d;break;
+			}
+			if(z!=0 && d!=0)
+			{if(z>2) u=u*0.825;
+			else u = u*1;
+			 document.getElementById("divcena").innerHTML="Cena će biti " + u + " dinara";}}
+		</script>
+	</body>
+</html>
